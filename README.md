@@ -8,10 +8,15 @@ Project is created with:
 
 ## Setup
 Download - `haarcascade_frontalface_default`
+
 Tensorflow - `pip install tensorflow`
+
 keras - `pip install keras`
+
 scipy - `pip install scipy==1.1.0`
+
 pandas - `pip install pandas`
+
 imutils - `pip install imutils`
 
 ```
